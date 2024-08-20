@@ -1,6 +1,6 @@
 import React from 'react';
 import './CompanyLogos.css';
-import logo1 from './assets/logo1.jpg'; // Replace with your actual logo paths
+import logo1 from './assets/logo1.jpg'; 
 import logo2 from './assets/logo2.jpg';
 import logo3 from './assets/logo3.jpg';
 import logo4 from './assets/logo4.jpg';
