@@ -68,7 +68,7 @@
   }
 
   .profile-pic {
-    max-width: 80%; /* Adjust as needed */
+    max-width: 80%; 
     height: 500%;
     border-radius: 10px;
   }
