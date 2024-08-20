@@ -1,6 +1,6 @@
 import React from 'react';
 import './MainSection.css';
-import profilePic from './assets/Profilepic.png'; // Ensure your picture path is correct
+import profilePic from './assets/Profilepic.png';
 
 const MainSection = () => {
   return (
