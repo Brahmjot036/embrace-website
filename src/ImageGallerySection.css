@@ -1,0 +1,64 @@
+.image-gallery-section {
+    padding: 40px 20px;
+    text-align: center;
+  }
+
+  .gallery-heading h2 {
+    font-size: 58px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .gallery-heading p {
+    font-size: 18px;
+    margin-bottom: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .gallery-images {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+  }
+
+  .image-item {
+    flex: 1;
+    margin: 0 10px;
+    text-align: center;
+    size: 300px;
+  }
+
+  .image-item img {
+    width: 300%;
+    max-width: 300px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+    row-gap: 2px;
+}
+
+  .image-subheading {
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 10px;
+  }
+
+  .see-more-button button {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+  .see-more-button button:hover {
+    background-color: #000000;
+  }
