@@ -1,6 +1,6 @@
 .footer {
-    background-color: #000; /* Black background */
-    color: #fff; /* White text */
+    background-color: #000; 
+    color: #fff; 
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -14,7 +14,7 @@
 
   .footer-right {
     display: flex;
-    gap: 20px; /* Space between links */
+    gap: 20px; 
   }
 
   .footer-link {
