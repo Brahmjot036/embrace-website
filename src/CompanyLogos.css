@@ -22,11 +22,11 @@
     display: flex;
     justify-content: center;
     gap: 150px;
-    flex-wrap: wrap; /* Allows logos to wrap to the next line */
+    flex-wrap: wrap; 
   }
 
   .company-logo {
-    max-width: 120px; /* Adjust as needed */
+    max-width: 120px; 
     height: 90px;
     transition: transform 0.3s ease;
   }
